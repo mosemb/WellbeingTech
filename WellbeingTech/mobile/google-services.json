@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "205821065992",
+    "firebase_url": "https://wellbeingtechreal-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "wellbeingtechreal",
+    "storage_bucket": "wellbeingtechreal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205821065992:android:18989232d672ef9997cabd",
+        "android_client_info": {
+          "package_name": "com.hfad.wellbeingtech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205821065992-7dbcd2hpta89ii2a19rfve2oimuck42s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLreegQauDtQIsDcrRtyAaOGIH1PBy1Pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205821065992-7dbcd2hpta89ii2a19rfve2oimuck42s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

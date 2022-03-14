@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Stress and Flow Monitor</string>
+    <string name="stress_flow_levels">Stress and Flow </string>
+    <string name="mental_state">Mental State</string>
+    <string name="submit">Submit</string>
+    <string name="heart_rate_variability">Standard Deviation</string>
+    <string name="mean_bpm">Mean BPM</string>
+    <string name="average_bpm">Average BPM</string>
+    <string name="heart_rate_statistics">Heart Rate Statistics</string>
+    <string name="quit">Quit</string>
+    <string name="channel_name">Channel_1</string>
+    <string name="channel_description">channel configured on a high</string>
+    <string name="nodata">No data</string>
+    <string name="Nodata2">No data</string>
+    <string name="loading_data">Loading data...</string>
+</resources>
+
